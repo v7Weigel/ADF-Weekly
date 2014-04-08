@@ -1,4 +1,0 @@
-ADF-Weekly
-==========
-
-Git Training
